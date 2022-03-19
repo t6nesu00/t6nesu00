@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Suman Nepali
+### Hi there 👋, my name is **Suman Nepali**
 #### I am software/web developer.
 ![I am software/web developer.](I am developing this part.)
 
