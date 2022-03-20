@@ -5,7 +5,7 @@ I am Suman Nepali, and I am a web developer/designer. I really enjoy learning ne
 
 ## Skills and Experiences
 
-* 💻 HTML/CSS/JavaScript/PHP/Python
+* 💻 HTML/CSS/JavaScript/PHP/Python/React
 
 
 ## Connect me with
