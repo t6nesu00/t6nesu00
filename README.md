@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Suman Nepali
 #### Software/web developer.
 
-Welcome to you to my github page. My name is Suman Nepali, and I am a web developer/designer. Coding is my passion and I really enjoy learning and trying new things.
+"Welcome to my GitHub! 👋 I'm a passionate software and web developer who thrives on coding and tackling challenges. With a deep love for learning, I'm constantly exploring new horizons in the ever-evolving world of technology. Let's code, learn, and create together!" 🚀💻📚
 
 ## Skills and Experiences
 
